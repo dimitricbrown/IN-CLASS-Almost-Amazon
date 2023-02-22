@@ -33,7 +33,7 @@ const booksOnSale = () => {};
 
 // TODO: STRETCH...SEARCH BOOKS
 
-export {
+export default {
   getBooks,
   createBook,
   booksOnSale,
