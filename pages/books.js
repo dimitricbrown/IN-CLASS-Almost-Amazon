@@ -30,4 +30,4 @@ const showBooks = (array) => {
   renderToDOM('#store', domString);
 };
 
-export default { showBooks, emptyBooks };
+export { showBooks, emptyBooks };
